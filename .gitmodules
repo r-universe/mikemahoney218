@@ -8,13 +8,16 @@
 	url = https://github.com/mikemahoney218/heddlr
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "proceduralnames"]
 	path = proceduralnames
 	url = https://github.com/mikemahoney218/proceduralnames
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "spacey"]
 	path = spacey
 	url = https://github.com/mikemahoney218/spacey
 	shallow = true
 	registered = true
+	oncran = true
