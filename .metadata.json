@@ -1,0 +1,14 @@
+[
+  {
+    "package": "heddlr",
+    "oncran": true
+  },
+  {
+    "package": "proceduralnames",
+    "oncran": true
+  },
+  {
+    "package": "spacey",
+    "oncran": true
+  }
+]
