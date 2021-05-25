@@ -1,6 +1,6 @@
 [
   {
-    "package": "heddlr",
+    "package": "terrainr",
     "oncran": true
   },
   {
@@ -8,7 +8,17 @@
     "oncran": true
   },
   {
+    "package": "heddlr",
+    "oncran": true
+  },
+  {
     "package": "spacey",
     "oncran": true
+  },
+  {
+    "package": "mvdf"
+  },
+  {
+    "package": "plantr"
   }
 ]
