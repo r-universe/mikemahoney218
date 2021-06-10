@@ -28,6 +28,11 @@
 	url = https://github.com/mikemahoney218/mvdf
 	shallow = true
 	registered = true
+[submodule "forthetrees"]
+	path = forthetrees
+	url = https://github.com/mikemahoney218/forthetrees/
+	shallow = true
+	registered = true
 [submodule "plantr"]
 	path = plantr
 	url = https://github.com/mikemahoney218/plantr
