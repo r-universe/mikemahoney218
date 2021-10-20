@@ -4,6 +4,9 @@
     "oncran": true
   },
   {
+    "package": "unifir"
+  },
+  {
     "package": "proceduralnames",
     "oncran": true
   },

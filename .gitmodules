@@ -8,6 +8,12 @@
 	url = https://github.com/ropensci/terrainr
 	shallow = true
 	registered = true
+[submodule "unifir"]
+	path = unifir
+	url = https://github.com/mikemahoney218/unifir
+	shallow = true
+	subdir = experimental
+	registered = true
 [submodule "proceduralnames"]
 	path = proceduralnames
 	url = https://github.com/mikemahoney218/proceduralnames
