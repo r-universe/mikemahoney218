@@ -12,7 +12,6 @@
 	path = unifir
 	url = https://github.com/mikemahoney218/unifir
 	shallow = true
-	subdir = experimental
 	registered = true
 [submodule "proceduralnames"]
 	path = proceduralnames
@@ -33,17 +32,14 @@
 	path = mvdf
 	url = https://github.com/mikemahoney218/mvdf
 	shallow = true
-	subdir = experimental
 	registered = true
 [submodule "forthetrees"]
 	path = forthetrees
 	url = https://github.com/mikemahoney218/forthetrees/
 	shallow = true
-	subdir = experimental
 	registered = true
 [submodule "plantr"]
 	path = plantr
 	url = https://github.com/mikemahoney218/plantr
 	shallow = true
-	subdir = experimental
 	registered = true
