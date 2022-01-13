@@ -1,9 +1,5 @@
 [
   {
-    "package": "terrainr",
-    "oncran": true
-  },
-  {
     "package": "unifir"
   },
   {
