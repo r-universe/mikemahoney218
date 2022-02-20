@@ -30,7 +30,7 @@
 	registered = true
 [submodule "forthetrees"]
 	path = forthetrees
-	url = https://github.com/mikemahoney218/forthetrees/
+	url = https://github.com/mikemahoney218/forthetrees
 	shallow = true
 	registered = true
 [submodule "plantr"]
