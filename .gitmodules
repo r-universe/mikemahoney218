@@ -5,7 +5,7 @@
 	branch = HEAD
 [submodule "unifir"]
 	path = unifir
-	url = https://github.com/mikemahoney218/unifir
+	url = https://github.com/ropensci/unifir
 	shallow = true
 	registered = true
 [submodule "proceduralnames"]
