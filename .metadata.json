@@ -1,6 +1,7 @@
 [
   {
-    "package": "unifir"
+    "package": "unifir",
+    "oncran": false
   },
   {
     "package": "proceduralnames",
