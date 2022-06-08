@@ -8,8 +8,7 @@
     "oncran": true
   },
   {
-    "package": "spacey",
-    "oncran": true
+    "package": "spacey"
   },
   {
     "package": "mvdf"
