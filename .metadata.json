@@ -1,5 +1,8 @@
 [
   {
+    "package": "waywiser"
+  },
+  {
     "package": "proceduralnames",
     "oncran": true
   },
