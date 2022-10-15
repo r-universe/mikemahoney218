@@ -18,23 +18,8 @@
 	url = https://github.com/mikemahoney218/heddlr
 	shallow = true
 	registered = true
-[submodule "spacey"]
-	path = spacey
-	url = https://github.com/mikemahoney218/spacey
-	shallow = true
-	registered = true
 [submodule "mvdf"]
 	path = mvdf
 	url = https://github.com/mikemahoney218/mvdf
-	shallow = true
-	registered = true
-[submodule "forthetrees"]
-	path = forthetrees
-	url = https://github.com/mikemahoney218/forthetrees
-	shallow = true
-	registered = true
-[submodule "plantr"]
-	path = plantr
-	url = https://github.com/mikemahoney218/plantr
 	shallow = true
 	registered = true

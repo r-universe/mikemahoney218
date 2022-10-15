@@ -12,15 +12,6 @@
     "oncran": true
   },
   {
-    "package": "spacey"
-  },
-  {
     "package": "mvdf"
-  },
-  {
-    "package": "forthetrees"
-  },
-  {
-    "package": "plantr"
   }
 ]
