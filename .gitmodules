@@ -23,13 +23,3 @@
 	url = https://github.com/mikemahoney218/mvdf
 	shallow = true
 	registered = true
-[submodule "hardhat"]
-	path = hardhat
-	url = https://github.com/tidymodels/hardhat
-	shallow = true
-	registered = false
-[submodule "yardstick"]
-	path = yardstick
-	url = https://github.com/tidymodels/yardstick
-	shallow = true
-	registered = false
