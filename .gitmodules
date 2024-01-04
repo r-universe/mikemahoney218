@@ -1,20 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/mikemahoney218/universe
-	shallow = true
 	branch = HEAD
-[submodule "proceduralnames"]
-	path = proceduralnames
-	url = https://github.com/mikemahoney218/proceduralnames
-	shallow = true
-	registered = true
 [submodule "heddlr"]
 	path = heddlr
 	url = https://github.com/mikemahoney218/heddlr
-	shallow = true
-	registered = true
 [submodule "mvdf"]
 	path = mvdf
 	url = https://github.com/mikemahoney218/mvdf
-	shallow = true
-	registered = true
+[submodule "proceduralnames"]
+	path = proceduralnames
+	url = https://github.com/mikemahoney218/proceduralnames
+[submodule "rsi"]
+	path = rsi
+	url = https://github.com/Permian-Global-Research/rsi
