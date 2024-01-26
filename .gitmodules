@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/mikemahoney218/universe
+	url = https://github.com/mikemahoney218/mikemahoney218.r-universe.dev
 	branch = HEAD
 [submodule "heddlr"]
 	path = heddlr
