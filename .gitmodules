@@ -11,6 +11,3 @@
 [submodule "proceduralnames"]
 	path = proceduralnames
 	url = https://github.com/mikemahoney218/proceduralnames
-[submodule "rsi"]
-	path = rsi
-	url = https://github.com/Permian-Global-Research/rsi
